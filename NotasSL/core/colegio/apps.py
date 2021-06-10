@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class ParaleloAppConfig(AppConfig):
+class ColegioConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'paralelo_app'
+    name = 'colegio'
